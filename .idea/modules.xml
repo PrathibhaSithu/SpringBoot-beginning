@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Biggening.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Biggening.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-demo/rest-demo/rest-demo.iml" filepath="$PROJECT_DIR$/rest-demo/rest-demo/rest-demo.iml" />
+    </modules>
+  </component>
+</project>
