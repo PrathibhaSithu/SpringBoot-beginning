@@ -15,5 +15,36 @@ public class CloudVendor {
         this.venderAddress = venderAddress;
         this.venderPhoneNumber = venderPhoneNumber;
     }
+    public String getVenderId() {
+        return venderId;
+    }
+
+    public void setVenderId(String venderId) {
+        this.venderId = venderId;
+    }
+
+    public String getVenderName() {
+        return venderName;
+    }
+
+    public void setVenderName(String venderName) {
+        this.venderName = venderName;
+    }
+
+    public String getVenderAddress() {
+        return venderAddress;
+    }
+
+    public void setVenderAddress(String venderAddress) {
+        this.venderAddress = venderAddress;
+    }
+
+    public String getVenderPhoneNumber() {
+        return venderPhoneNumber;
+    }
+
+    public void setVenderPhoneNumber(String venderPhoneNumber) {
+        this.venderPhoneNumber = venderPhoneNumber;
+    }
 
 }
